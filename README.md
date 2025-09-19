@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ht1024
-- 👀 I’m interested in NodeJs & Cybersecurity
+- 👀 I’m interested in SEO, NodeJs & Cybersecurity
 - 🌱 I’m currently learning project management
 - 💞️ I’m looking to collaborate on open source games, datasets and machine learning
 - 📫 Reach me here on GitHub
